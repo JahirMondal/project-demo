@@ -1,4 +1,4 @@
 # project-demo
-this is a demo repository.
+This is a Git demo repository.
 <br>
 Author - Jahir Mondal
