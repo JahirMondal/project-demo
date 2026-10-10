@@ -1,3 +1,3 @@
 # project-demo
-this is a demo repository
+this is a demo repository.
 Author - Jahir Mondal
